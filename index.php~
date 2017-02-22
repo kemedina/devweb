@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Title of the document</title>
-<?php require("plantillas/header.php");
+<?php require(plantillas/header.php);
  ?>
 </head>
 
