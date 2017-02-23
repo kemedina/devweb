@@ -1,3 +1,13 @@
 body{
-	background-color: black;
+	background-image: url("imagenes/como-fotografias-paisajes.jpg");
+	background-size: cover;
+}
+#cabecera{
+	background-color: white;
+	
+
+}
+.ejemp{
+   witdh:600px
+   backgroud-color: green;
 }

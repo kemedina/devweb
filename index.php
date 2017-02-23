@@ -2,13 +2,17 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title of the document</title>
+<title>Ejemplo animacion con jsAnim</title>
 <?php require("plantillas/header.php");
  ?>
 </head>
 
 <body>
-Content of the document......
+<div class="ejemp">
+   <img src="css/imagenes/tux.jpg" id="tux" />
+</div>
+<button onclick="animacion()">Animate!</button>
 </body>
-
+<?php require("plantillas/footer.php");
+ ?>
 </html>
