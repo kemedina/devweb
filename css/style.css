@@ -4,10 +4,24 @@ body{
 }
 #cabecera{
 	background-color: white;
-	
+
 
 }
 .ejemp{
-   witdh:600px
-   backgroud-color: green;
+	display: none;
+	position: fixed;
+  top: 30%;
+  left: 40%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+.segundo{
+	display: none;
+	position: fixed;
+
+	    left: -16px;;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+
+
 }

@@ -8,10 +8,12 @@
 </head>
 
 <body>
-<div class="ejemp">
-   <img src="css/imagenes/tux.jpg" id="tux" />
+<div>
+   <img class="ejemp" src="css/imagenes/tux.jpg" />
 </div>
-<button onclick="animacion()">Animate!</button>
+<div class="container segundo">
+   <img   src="css/imagenes/A1D.jpg" />
+</div>
 </body>
 <?php require("plantillas/footer.php");
  ?>
